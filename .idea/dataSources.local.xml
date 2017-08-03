@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - TaskApplication@localhost" uuid="fbbd8e5e-c11b-44f8-b42d-04f37751a029">
+      <secret-storage>master_key</secret-storage>
+      <user-name>ii</user-name>
+      <resolve-scope>TaskApplication:ii,public</resolve-scope>
+    </data-source>
+  </component>
+</project>
